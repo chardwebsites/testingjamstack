@@ -6,4 +6,9 @@ menu: 'main'
 ---
 
 # testing a page
+<<<<<<< HEAD
 
+=======
+## testing a secondary branch
+## secondary branch on github
+>>>>>>> adcd7b83f4e5f831247e9fa09f9384a95d437388
